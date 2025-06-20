@@ -4,7 +4,7 @@ Multiple Convolutional Neural Network (CNN) architectures, including InceptionV3
 
 The final model is tested on unseen data and evaluated using standard metrics such as accuracy, precision, and recall.
 
-<b>DATABASE OF LEAVES</b> - https://drive.google.com/drive/folders/1xvZN_eVbZwvVaFrlhlo_J_9_flmtsp1R?usp=sharing
+<b>Leaves Dataset</b> - https://drive.google.com/drive/folders/1xvZN_eVbZwvVaFrlhlo_J_9_flmtsp1R?usp=sharing
 
 
 🔍 <b>Key Features</b>
