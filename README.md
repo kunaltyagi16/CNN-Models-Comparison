@@ -4,6 +4,7 @@ Multiple Convolutional Neural Network (CNN) architectures, including InceptionV3
 
 The final model is tested on unseen data and evaluated using standard metrics such as accuracy, precision, and recall.
 
+
 🔍 Key Features
 
 Diverse dataset of medicinal plant diseases
@@ -15,3 +16,11 @@ Evaluation of multiple CNN architectures
 Transfer learning for model fine-tuning
 
 Model performance assessment on test set
+
+
+🔍 Results
+
+![image](https://github.com/user-attachments/assets/7a5ff572-3d77-4c1b-915c-ca7d8fb23094)
+
+
+🎯 My Published Journal Research Paper on this Project - https://journal.esrgroups.org/jes/article/view/3989
